@@ -10,3 +10,5 @@ maildev -- checkout the official maildev project or...
 `npm install -g maildev` 
 `./maildev.cmd`
 PostgreSQL
+
+### I've used some help from AmigosCode webpage 'cuz he is good!
