@@ -5,7 +5,7 @@ Complete login registration backend system using Spring Boot.
 Install the pom.xml dependencies then run the project.
 
 # Reqs
-##Postman (Optional)
+#Postman (Optional)
 maildev -- checkout the official maildev project or...
 `npm install -g maildev` 
 `./maildev.cmd`
